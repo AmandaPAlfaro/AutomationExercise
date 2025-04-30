@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|d:\\branches\\branch stage2\\automationexercise\\stage2\\stage2_test\\stage2_test\\stage2_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|solutionrelative:stage2_test\\stage2_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|d:\\branches\\branch stage2\\automationexercise\\stage2\\stage2_test\\stage2_test\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|solutionrelative:stage2_test\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|d:\\branches\\branch stage2\\automationexercise\\stage2\\stage2_test\\stage2_test\\test1.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|solutionrelative:stage2_test\\test1.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|d:\\branches\\branch stage2\\automationexercise\\stage2\\stage2_test\\stage2_test\\test5.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|solutionrelative:stage2_test\\test5.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|d:\\branches\\branch stage2\\automationexercise\\stage2\\stage2_test\\stage2_test\\test4.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|solutionrelative:stage2_test\\test4.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|d:\\branches\\branch stage2\\automationexercise\\stage2\\stage2_test\\stage2_test\\test3.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD350092-0ED3-41D2-A070-31B42CDE91A8}|Stage2_Test\\Stage2_Test.csproj|solutionrelative:stage2_test\\test3.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test5.cs",
+              "DocumentMoniker": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test5.cs",
+              "RelativeDocumentMoniker": "Stage2_Test\\Test5.cs",
+              "ToolTip": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test5.cs",
+              "RelativeToolTip": "Stage2_Test\\Test5.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:39:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test4.cs",
+              "DocumentMoniker": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test4.cs",
+              "RelativeDocumentMoniker": "Stage2_Test\\Test4.cs",
+              "ToolTip": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test4.cs",
+              "RelativeToolTip": "Stage2_Test\\Test4.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:36:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test3.cs",
+              "DocumentMoniker": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test3.cs",
+              "RelativeDocumentMoniker": "Stage2_Test\\Test3.cs",
+              "ToolTip": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test3.cs",
+              "RelativeToolTip": "Stage2_Test\\Test3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:31:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stage2_Test.csproj",
+              "DocumentMoniker": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Stage2_Test.csproj",
+              "RelativeDocumentMoniker": "Stage2_Test\\Stage2_Test.csproj",
+              "ToolTip": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Stage2_Test.csproj",
+              "RelativeToolTip": "Stage2_Test\\Stage2_Test.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T16:11:31.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test1.cs",
+              "RelativeDocumentMoniker": "Stage2_Test\\Test1.cs",
+              "ToolTip": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\Test1.cs",
+              "RelativeToolTip": "Stage2_Test\\Test1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:22:27.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInTests.cs",
+              "DocumentMoniker": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\LogInTests.cs",
+              "RelativeDocumentMoniker": "Stage2_Test\\LogInTests.cs",
+              "ToolTip": "D:\\branches\\Branch Stage2\\AutomationExercise\\Stage2\\Stage2_Test\\Stage2_Test\\LogInTests.cs",
+              "RelativeToolTip": "Stage2_Test\\LogInTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA5wEEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:03:07.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
